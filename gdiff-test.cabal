@@ -1,0 +1,8 @@
+name: gdiff-test
+author: Clifford Beshers
+build-type: Simple
+version: 0.1
+
+Executable: Main
+main-is: Main.hs
+build-depends: base, gdiff
