@@ -5,4 +5,4 @@ version: 0.1
 
 Executable: Main
 main-is: Main.hs
-build-depends: base, gdiff
+build-depends: base, containers, gdiff, mtl, text
